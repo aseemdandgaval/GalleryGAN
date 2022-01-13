@@ -1,5 +1,5 @@
 # GalleryGAN
-
+https://github.com/aseemdandgaval/GalleryGAN/blob/master/GalleryGAN_(500).ipynb
 <br>
 
 ## Generative Adversarial Networks (GANs)
