@@ -1,4 +1,7 @@
 # GalleryGAN
+
+This project consists of a Generative Adversarial Network or GAN, which generates abstract images from scratch.
+
 https://github.com/aseemdandgaval/GalleryGAN/blob/master/GalleryGAN_(500).ipynb
 <br>
 
